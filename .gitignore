@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+
+# Flutter
+.build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.gz
